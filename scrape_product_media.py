@@ -1,9 +1,8 @@
 import requests
 import urllib.request
 import pandas as pd
-from bs4 import BeautifulSoup
-from pytubefix import YouTube
 import os
+from pytubefix import YouTube
 from playwright.sync_api import sync_playwright
 
 
